@@ -3,6 +3,3 @@
 ## このリポジトリについて
 [IC SFCard Fan](http://www014.upp.so-net.ne.jp/SFCardFan/)さんが収集されていたものをベースに，引き続き調査してゆく予定です．
 収集されたデータは，IC乗車券をより便利に利用できるようなソフトウェア開発に役立つでしょう．
-## to_sqlite3.py について
-実行するには，`pysqlite3`と`pandas`が必要ですので，適宜インストールしてください．
-実行すると，`ekicode.csv`をsqlite3形式に変換します．
